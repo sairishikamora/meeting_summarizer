@@ -1,0 +1,10 @@
+torch
+torchaudio
+transformers
+openai-whisper
+vosk
+jiwer
+pandas
+numpy
+soundfile
+pyannote.audio
